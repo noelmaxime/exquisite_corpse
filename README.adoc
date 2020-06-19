@@ -1,2 +1,7 @@
 # exquisite_corpse
 = Corpse
+
+
+Once upon a time a person named Git. Git had a lot of problems 
+in his life because of the difficulty for people to understand him and to speak with him.
+People prefered GitHub, his brother. 
